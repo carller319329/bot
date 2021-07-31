@@ -64,7 +64,7 @@ echo $baner = "
 \033[1;32m
 ==========================================     
              THANH NGUYEN SG
- https://youtube.com/c/thanhnguyen
+ https://youtube.com/c/thanhnguyensg
 ==========================================
  \033[1;31m\n";                                                
 //echo $green2." •SILAHKAN AMBIL PASSWORD DI DALAM VIDEO YT KAKEK.\n";
