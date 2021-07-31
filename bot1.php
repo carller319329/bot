@@ -63,7 +63,7 @@ echo $baner = "
 \033[1;31mWELLCOME TO MY SCRIPT
 \033[1;32m
 ==========================================     
-             THANH NGUYEN SG
+             THANH NGUYEN
  https://youtube.com/c/thanhnguyensg
 ==========================================
  \033[1;31m\n";                                                
